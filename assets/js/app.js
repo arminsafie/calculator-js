@@ -1,5 +1,4 @@
 let displayValue = "";
-
 const updateDisplay = () => {
   const display = document.getElementById("display");
   display.value = displayValue;
